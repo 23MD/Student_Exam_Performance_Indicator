@@ -32,6 +32,7 @@ The dataset comprises 8 columns and 1,000 rows.
 - **Web Framework**: Flask
 - **Frontend**: Bootstrap
 - **Development Environment**: Visual Studio Code, Jupyter Notebook
+- **Cloud Host**: [Render](https://render.com/)
 
 ## Libraries Used
 - **Flask**: Web framework
